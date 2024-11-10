@@ -1,0 +1,43 @@
+[
+  {
+    "nume": "Vlad",
+    "postare": "manager",
+    "dataAngajarii": [2009,10,6],
+    "salariu": 12000.56
+  },
+
+  {
+    "nume": "Ioana",
+    "postare": "receptionista",
+    "dataAngajarii": [2009,10,6],
+    "salariu": 1000.76
+  },
+
+  {
+    "nume": "Maria",
+    "postare": "sef",
+    "dataAngajarii": [2023,4,4],
+    "salariu": 15000.89
+  },
+
+  {
+    "nume": "Paula",
+    "postare": "programator",
+    "dataAngajarii": [2009,10,6],
+    "salariu": 20000.09
+  },
+
+  {
+    "nume": "Tudor",
+    "postare": "instalator",
+    "dataAngajarii": [2009,10,6],
+    "salariu": 9000.0
+  },
+
+  {
+    "nume": "Ionel",
+    "postare": "director",
+    "dataAngajarii": [2023,4,4],
+    "salariu": 12000.0
+  }
+]
